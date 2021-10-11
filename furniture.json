@@ -1,0 +1,111 @@
+[
+    {
+        "name" : "Nike Dri-FIT Femme 10Kt",
+        "estrellas" : "",
+        "category" : "Shorts",
+        "oldprice" : "",
+        "price" : "699",
+        "imgSrc" : "images/shorts-de-running-dri-fit-femme.jpeg",
+        "promo" : ""
+    },
+    {
+        "name" : "Nike Dri-FIT Wild Rune",
+        "estrellas" : "⭐⭐⭐⭐⭐",
+        "category" : "Shorts",
+        "oldprice" : "$1300",
+        "price" : "1199",
+        "imgSrc" : "images/shorts-de-running-2-en-1-flex-stride-wild-run.jpeg",
+        "promo" : "oferta"
+    },
+    {
+        "name" : "Nike Dri-FIT Challenger Wild Run",
+        "estrellas" : "",
+        "category" : "Pants",
+        "oldprice" : "$1599",
+        "price" : "1399",
+        "imgSrc" : "images/pantalones-tejidos-de-running-dri-fit.jpeg",
+        "promo" : "oferta"
+    },
+    {
+        "name" : "Nike Repel Wild Run Windrunner",
+        "estrellas" : "⭐⭐⭐⭐⭐",
+        "category" : "Chamarra",
+        "oldprice" : "",
+        "price" : "2350",
+        "imgSrc" : "images/chamarra-de-running-con-estampado-repel-wild-run-windrunner.jpeg",
+        "promo" : ""
+    },
+    {
+        "name" : "Nike Sportswear",
+        "estrellas" : "",
+        "category" : "Sudadera",
+        "oldprice" : "$1500",
+        "price" : "1350",
+        "imgSrc" : "images/sudadera-con-gorro-sin-cierre-de-french-terry-sportswear.jpeg",
+        "promo" : "oferta"
+    },
+    {
+        "name" : "Nike Dri-FIT Get Fit",
+        "estrellas" : "",
+        "category" : "Sudadera",
+        "oldprice" : "",
+        "price" : "1199",
+        "imgSrc" : "images/sudadera-de-entrenamiento-dri-fit-get-fit.jpeg",
+        "promo" : ""
+    },
+    {
+        "name" : "Nike Sportswear Femme",
+        "estrellas" : "⭐⭐⭐⭐⭐",
+        "category" : "Pants",
+        "oldprice" : "1200",
+        "price" : "1099",
+        "imgSrc" : "images/joggers-sportswear-femme.jpeg",
+        "promo" : "oferta"
+    },
+    {
+        "name" : "Nike Sportswear Femme",
+        "estrellas" : "⭐⭐⭐⭐⭐",
+        "category" : "Sudadera",
+        "oldprice" : "",
+        "price" : "1099",
+        "imgSrc" : "images/sudadera-de-cuello-redondo-sportswear-femme.jpeg",
+        "promo" : ""
+    },
+    {
+        "name" : "Nike Dri-FIT CR7",
+        "estrellas" : "",
+        "category" : "Playera",
+        "oldprice" : "649",
+        "price" : "551",
+        "imgSrc" : "images/top-de-fútbol-de-manga-corta-talla-grande-dri-fit-cr7.jpeg",
+        "promo" : "oferta"
+    },
+    {
+        "name" : "Nike Flex Runner",
+        "estrellas" : "",
+        "category" : "Tennis",
+        "oldprice" : "",
+        "price" : "999",
+        "imgSrc" : "images/calzado-talla-pequeña-flex-runner.jpeg",
+        "promo" : ""
+    },
+    {
+        "name" : "Nike Dri-FIT Trophy",
+        "estrellas" : "⭐⭐⭐⭐⭐",
+        "category" : "Playera",
+        "oldprice" : "449",
+        "price" : "314",
+        "imgSrc" : "images/camiseta-de-entrenamiento-de-manga-corta-talla-grande-dri-fit-trophy.jpeg",
+        "promo" : "oferta"
+    },
+    {
+        "name" : "Nike Trophy",
+        "estrellas" : "⭐⭐⭐⭐⭐",
+        "category" : "Sujetador",
+        "oldprice" : "449",
+        "price" : "349",
+        "imgSrc" : "images/sujetador-deportivo-talla-grande-trophy.jpeg",
+        "promo" : ""
+    }
+
+]
